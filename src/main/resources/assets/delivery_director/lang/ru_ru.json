@@ -1,0 +1,12 @@
+{
+  "block.delivery_director.package_rewriter": "Переадресовщик",
+  "delivery_director.ponder.package_rewriter.header": "Перемаршрутизацией коробок с помощью переадресовщика",
+  "delivery_director.ponder.package_rewriter.text_1": "Переадресовщик позволяет переписать адрес назначения коробки",
+  "delivery_director.ponder.package_rewriter.text_2": "→ Мой завод",
+  "delivery_director.ponder.package_rewriter.text_3": "Переадресовщик найдёт слово, совпадающее с текстом на первой строке размещённой таблички...",
+  "delivery_director.ponder.package_rewriter.text_4": "...и заменит его на текст со второй строки таблички",
+  "delivery_director.ponder.package_rewriter.text_5": "§cзавод\n§aсклад",
+  "delivery_director.ponder.package_rewriter.text_6": "→ Мой склад",
+  "delivery_director.ponder.package_rewriter.text_7": "Регулярные выражения могут помочь с более сложными модификациями",
+  "delivery_director.ponder.package_rewriter.text_8": "Для работы с текстами, не помещающимися в строку таблички, можно использовать планшет"
+}
