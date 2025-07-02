@@ -14,7 +14,7 @@
       "item": "create:packager"
     },
     "C": {
-      "item": "create:brass_sheet"
+      "tag": "c:plates/brass"
     }
   },
   "result": {

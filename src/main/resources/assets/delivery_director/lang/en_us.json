@@ -1,5 +1,8 @@
 {
   "block.delivery_director.package_rewriter": "Package Re-Writer",
+  "create.delivery_director.regex_mode.simplified": "Simplifed Regex",
+  "create.delivery_director.regex_mode.full": "Full Regex",
+  "delivery_director.regex_mode": "Regex Mode",
   "delivery_director.ponder.package_rewriter.header": "Using the Package Re-Writer to change package addresses",
   "delivery_director.ponder.package_rewriter.text_1": "Package Re-Writers allow to change a package address",
   "delivery_director.ponder.package_rewriter.text_2": "My Factory",
