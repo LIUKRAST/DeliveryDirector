@@ -1,0 +1,12 @@
+{
+  "block.delivery_director.package_rewriter": "导包机",
+  "delivery_director.ponder.package_rewriter.header": "使用导包机更改包裹地址",
+  "delivery_director.ponder.package_rewriter.text_1": "导包机可以更改包裹的地址",
+  "delivery_director.ponder.package_rewriter.text_2": "我的工厂",
+  "delivery_director.ponder.package_rewriter.text_3": "导包机会找到匹配告示牌上第一行的文本……",
+  "delivery_director.ponder.package_rewriter.text_4": "并将它们替换为第二行的文本",
+  "delivery_director.ponder.package_rewriter.text_5": "§c工厂\n§a库房",
+  "delivery_director.ponder.package_rewriter.text_6": "我的库房",
+  "delivery_director.ponder.package_rewriter.text_7": "复杂的更改可通过正则表达式完成",
+  "delivery_director.ponder.package_rewriter.text_8": "剪贴板可用于更长的字符串"
+}
